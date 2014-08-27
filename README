@@ -1,5 +1,5 @@
 
-This is a pure-java port of asmjit (http://code.google.com/p/asmjit/)
+This is a pure-java port of asmjit (https://github.com/kobalicek/asmjit)
 
 There has been no attempt to clean the code up or java-fy it, so looking at it
 will make your eyes bleed and most probably send you insane.
